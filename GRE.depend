@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1569396506 source:f:\gre\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<vector>
+	<fstream>
+	<cctype>
+
